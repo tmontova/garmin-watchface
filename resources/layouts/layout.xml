@@ -1,0 +1,5 @@
+<layout id="WatchFace">
+    <label id="TimeLabel" x="0" y="center" font="Gfx.FONT_LARGE" color="Gfx.COLOR_DK_RED" />
+    <label id="DateLabel" x="right" y="center" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" />
+    <label id="SecondsLabel" font="Gfx.FONT_LARGE" color="Gfx.COLOR_BLUE" />
+</layout>
